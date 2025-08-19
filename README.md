@@ -3,7 +3,7 @@
 Calculadora simples baseada em Java, React e CSS.
 ![calculadora](https://repository-images.githubusercontent.com/578194839/a0e2a706-1df0-4c2e-8dea-457d2174ef16)
 
-**Especificações Técnicas Obrigatórias**
+**Especificações Técnicas Obrigatórias**:
 
 Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse será o meu primeiro projeto utilizando React, focado em aplicar conceitos fundamentais de front-end.
 
